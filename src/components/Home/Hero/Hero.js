@@ -21,7 +21,7 @@ const Hero = () => {
                                 <h1>Hi I'm Md Fahmid Chowdhury</h1>
                             </div>
                             <div className="hero-content-l-2">
-                                <h2><span>I am</span> <Typewriter
+                                <h2><span>I'm </span><Typewriter
                                         options={{
                                             strings: ['Software Engineer', 'Front End Developer', 'Data Analyst'],
                                             autoStart: true,
