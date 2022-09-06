@@ -2,6 +2,7 @@ import React from 'react'
 import './Hero.css'
 import heroImg from '../../Images/jat.png';
 import heroCircle from "../../Images/hero-circle.svg"
+import Typewriter from 'typewriter-effect';
 
 const Hero = () => {
     return (
@@ -20,7 +21,14 @@ const Hero = () => {
                                 <h1>Hi I'm Md Fahmid Chowdhury</h1>
                             </div>
                             <div className="hero-content-l-2">
-                                <h2>I am a Software Engineer</h2>
+                                <h2><span>I am</span> <Typewriter
+                                        options={{
+                                            strings: ['Software Engineer', 'Front End Developer', 'Data Analyst'],
+                                            autoStart: true,
+                                            loop: true,
+                                        }}
+                                    />
+                                </h2>
                             </div>
                             <div className="hero-content-l-3">
                                 <p>A software engineer 6+ years of proven leadership and meaningfully contributed to teams of varying size and scopes.</p>
@@ -34,10 +42,10 @@ const Hero = () => {
                 </div>
                 <div className="hero-image-wrapper">
                     <div className="hero-image-circle">
-                        <img src={heroCircle} alt="hero_circle"/>
-                    </div> 
+                        <img src={heroCircle} alt="hero_circle" />
+                    </div>
                     <div className="hero-image">
-                        <img src={heroImg} alt="hero_image"/>
+                        <img src={heroImg} alt="hero_image" />
                     </div>
                 </div>
             </div>

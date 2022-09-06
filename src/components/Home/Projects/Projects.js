@@ -1,7 +1,7 @@
 import React from 'react'
 import './Projects.css'
 import hoobank from '../../Images/hoobank.jpg'
-import fastfood from '../../Images/fastfood.PNG'
+import robot from '../../Images/robot.PNG'
 import homework from '../../Images/homework.PNG'
 
 const Projects = () => {
@@ -23,10 +23,10 @@ const Projects = () => {
                     </div>
                     <div className="projects-logistics-card">
                         <div className="projects-logistics-card-img">
-                            <img src={fastfood} alt="fastfood" />
+                            <img src={robot} alt="robot" />
                         </div>
                         <div className="projects-logistics-card-caption">
-                            <div className="projects-logistics-card-caption-main"><h1>Fast Food</h1></div>
+                            <div className="projects-logistics-card-caption-main"><h1>Medical Insurance</h1></div>
                         </div>
                     </div>
                     <div className="projects-logistics-card">

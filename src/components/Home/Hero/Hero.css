@@ -43,6 +43,7 @@
     font-size: 5rem;
     line-height:5.5rem;
     color:#063F93;
+    display:flex;
 }
 .hero-content-l-2 h2{
     font-size:3rem;
@@ -123,4 +124,8 @@
     .hero-content{
         padding-right:0;
     }
+}
+
+.Typewriter{
+    display:inline;
 }
