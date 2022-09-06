@@ -1,0 +1,21 @@
+.footer{
+    width:94%;
+    max-width:1500px;
+    display:grid;
+    height:100%;
+    place-items:center;
+    padding-top:8rem;
+}
+.footer-social{
+    max-width:8rem;
+    width: 100%;
+    display:flex;
+    justify-content: space-between;
+}
+
+.footer-copyright{
+    padding:2rem 0;
+    font-size: 1.5rem;
+    text-align:center;
+    color:#707A8A;
+}
