@@ -26,10 +26,7 @@
 .rundown-counter-content h1{
     font-size:6rem;
     font-family: 'Roboto', sans-serif;
-    background: linear-gradient(90deg, #7562DF,#aaa, #7562DF);
-    background-clip: text;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    color:#ddd;
 }
 .rundown-counter-content h2{
     font-size:2.5rem;
