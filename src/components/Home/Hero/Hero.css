@@ -54,7 +54,7 @@
     padding-bottom:1rem;
 }
 .hero-content-l-3 p{
-    color:#666;
+    color:#ddd;
     font-size:calc(var(--p-fs-xx) + 4px);
 }
 .hero-content-l-btn{
