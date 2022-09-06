@@ -1,6 +1,5 @@
 import React from 'react'
 import './Skills.css'
-import solid from '../../Images/solid.png'
 import anchor from '../../Images/anchor.svg'
 import box from '../../Images/box.svg'
 import stack from '../../Images/stack.svg'
