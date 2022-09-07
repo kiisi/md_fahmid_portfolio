@@ -1,6 +1,6 @@
 import React from 'react'
 import './Hero.css'
-import heroImg from '../../Images/jat.png';
+import heroImg from '../../Images/heroimage.png';
 import heroCircle from "../../Images/hero-circle.svg"
 import Typewriter from 'typewriter-effect';
 
