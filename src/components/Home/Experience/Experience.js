@@ -35,11 +35,21 @@ const Experience = () => {
                         <div className="accordion-item">
                             <h2 className="accordion-header" id="flush-headingTwo">
                                 <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
-                                    Accordion Item #2
+                                    Software Engineering Virtual Experience
                                 </button>
                             </h2>
                             <div id="flush-collapseTwo" className="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
-                                <div className="accordion-body">Placeholder content for this accordion, which is intended to demonstrate the <code>.accordion-flush</code> class. This is the second item's accordion body. Let's imagine this being filled with some actual content.</div>
+                                <div className="accordion-body">
+                                    <h2>Learning</h2>
+                                    I had to consistently develop new skills. At first I was only good at Web Development but then I had to learn new skills in application layers, presentation layers, databases and more.
+                                    <h2>Problem Solving</h2>
+                                    I had to use my problem solving skills a lot to use perspective of JP Morgan Chase to learn from Stock data and set up a system for analysis of the data for their traders.
+                                    <h2>Resilience</h2>
+                                    I got stuck a lot of times but I always made sure to keep going and keep pushing because I always looked the end goal and how great it would feel to see the end product.
+                                    <h2>Time Frame:</h2>
+                                    1 year 2 months
+                                    Apr 2020 - May 2021
+                                </div>
                             </div>
                         </div>
                         <div className="accordion-item">
