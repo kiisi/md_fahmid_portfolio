@@ -74,25 +74,7 @@ const Experience = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="accordion-item">
-                            <h2 className="accordion-header" id="flush-headingFour">
-                                <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
-                                    CIO and Owner - SARATOGA CHICKEN US INC
-                                </button>
-                            </h2>
-                            <div id="flush-collapseFour" className="accordion-collapse collapse" aria-labelledby="flush-headingFour" data-bs-parent="#accordionFlushExample">
-                                <div className="accordion-body">
-                                    <h2>Communication</h2>
-                                    I ran and operated this business, so I had to deal with many different types of customers from many different type of backgrounds. It was difficult because I had to learn how different customer might react and how to read them beforehand. I also had to learn sale to a great extend.
-                                    <h2>Leadership</h2>
-                                    This position required massive amount of leadership skills that I gain by myself using trial and error, for instance learning how to hire slowly and fire quickly, its a hard job but after some time you get used to it.
-                                    <h2>Problem Solving</h2>
-                                    Since I was CIO or basically the guy who did all the tech work in the company, I had to solve many problems myself, for instance making an amazing website for the company, setting up clover payment system so that the customer can pay with cards and we can manage staff with it.
-                                    <h2>Learning</h2>
-                                    I had to learn how to setup and use POS all by myself just using some youtube videos, I had to learn how to use excel to make key business decision for my business. All these took massive amount of learning which took a lot of hard work and of course patience.
-                                </div>
-                            </div>
-                        </div>
+                    
                     </div>
 
                 </div>
