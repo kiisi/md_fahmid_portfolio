@@ -21,7 +21,7 @@ const Achievements = () => {
                             </h2>
                             <div id="flush-collapseOne" className="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
                                 <div className="accordion-body">
-                                    <span>Website Link: </span><a href="https://mohammad-famid-chowdhuryfintech.netlify.app/" target="blank">Mohammad-famid-chowdhuryfintech.netlify.app</a>
+                                    <span>Website Link: </span><a href="https://mohammad-famid-chowdhuryfintech.netlify.app/"  target="_blank"rel="noreferrer">famid-fintech</a>
                                     <h2>Creativity:</h2>
                                     I had to use creativity to do better UX/UI for the website and perfectly place media queries for great responsiveness on all devices
                                     <h2>Learning:</h2>
@@ -40,7 +40,7 @@ const Achievements = () => {
                             </h2>
                             <div id="flush-collapseTwo" className="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
                                 <div className="accordion-body">
-                                    <span>Website Link: </span><a href="https://mohammadfahmidchowdhuryproject.netlify.app/" target="blank">Mohammadfahmidchowdhuryproject.netlify.app</a>
+                                    <span>Website Link: </span><a href="https://mohammadfahmidchowdhuryproject.netlify.app/" target="_blank"rel="noreferrer">HomeWork</a>
                                     <h2>Creativity:</h2>
                                     I had to use creativity of how students and customers might want to order my services, I used those information to then design something amazing like this app.
                                     <h2>Learning:</h2>
