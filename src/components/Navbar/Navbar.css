@@ -36,11 +36,151 @@
     pointer-events: none;
 }
 
+.mobile-nav{
+    height: 100vh;
+    width:100%;
+    max-width: 40rem;
+    position:fixed;
+    top:0;
+    right:-40rem;
+    display:none;
+    z-index:1000;
+}
+.mobile-nav.nav-slide-effect-in{
+    animation: slide-effect-in 300ms linear;
+}
+@keyframes slide-effect-in{
+    to{
+        right:0;
+    }
+}
+.mobile-nav.nav-slide-effect-out{
+    animation: slide-effect-out 400ms linear;
+    animation-delay:250ms;
+}
+@keyframes slide-effect-out{
+    to{
+        right:-40rem;
+    }
+}
+.mobile-nav-close-wrapper{
+    padding-top:3rem;
+    width:4.5rem;
+    margin-right: 1rem;
+    margin-left: 1rem;
+}
+
+.mobile-nav-close{
+    height:4.5rem;
+    width:4.5rem;
+    background:#fff;
+    border-radius:50%;
+    opacity:0;
+    transform: scale(0);
+    display:grid;
+    place-items:center;
+    box-shadow:0 0 10px 2px rgba(226, 176, 176, 0.1);
+    transition: 250ms ease;
+}
+.mobile-nav-close.show{
+    opacity:1;
+    transform: scale(1);
+    
+}
+
+.mobile-nav-content{
+    background:#fff;
+    flex:1;
+    padding:0 1rem;
+    padding-top: 3.5rem;
+
+}
+.mobile-nav-menu{
+    padding-top: 2rem;
+    display:grid;
+    place-items: center;
+    font-size:1.6rem;
+    font-weight: 400;
+}
+
+
+.mobile-nav-menu div{
+    padding:1rem;
+}
+.nav-modal{
+    height:100vh;
+    width:100%;
+    background:rgba(0,0,0,.1);
+    backdrop-filter: blur(5px);
+    position:fixed;
+    top:0;
+    left:0;
+    z-index:999;
+    display:none;
+}
+
+
+.mobile-nav-util{
+    display:flex;
+    align-items: center;
+    padding:.5rem 1rem;
+    background:#eee;
+    border-radius: .5rem;
+    border:1px solid #999;
+    width:100%;
+}
+.mobile-nav-util-search{
+    display:flex;
+    align-items: center;
+    flex:1;
+    width:100%;
+}
+.mobile-nav-util-search span{
+    color:#999;
+}
+.mobile-nav-util-cart{
+    display:flex;
+}
+.mobile-nav-util-cart img{
+    margin-right:.3rem;
+}
+.mobile-nav-util-cart-num{
+    height:2rem;
+    width:2rem;
+    display:grid;
+    place-items: center;
+    border-radius: 50%;
+    color:#fff;
+    background:red;
+    transform: translateY(-1.2rem);
+}
+.mobile-nav-util-search input{
+    margin-right: 7px;
+    height:25px;
+    background: none;
+    border-color:transparent;
+    border-right:1px solid #aaa;
+    color:#999;
+    padding-right: .5rem;
+    width:100%;
+}
+
+.mobile-nav-header{
+    display:grid;
+    place-items:center;
+    padding-bottom: 2rem;
+}
+
+
+
 @media screen and (max-width:768px){
     .nav-links{
         display:none;
     }
     .nav-menu-icon{
         display:grid;
+    }
+    .mobile-nav{
+        display:flex;
     }
 }
