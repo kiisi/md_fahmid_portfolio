@@ -2,7 +2,7 @@
     width:94%;
     max-width:1500px;
     height:100%;
-    padding-top: 15rem;
+    padding-top: 5rem;
     padding-bottom: 5rem;
 }
 .experience-header{
@@ -106,6 +106,15 @@
     max-width:31.1rem;
     max-height:41.5rem;
 }
+.accordion-body a{
+    text-decoration: none;
+}
+.accordion-body span{
+    padding-top:1.5rem;
+    color:#444;
+    font-weight:600;
+}
+
 .accordion-flush .accordion-item .accordion-button {
     border-radius: 0;
     padding-top: 2rem;

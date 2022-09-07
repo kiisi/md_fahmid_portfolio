@@ -21,11 +21,12 @@ const Achievements = () => {
                             </h2>
                             <div id="flush-collapseOne" className="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
                                 <div className="accordion-body">
-                                    <h2>Creativity</h2>
+                                    <span>Website Link: </span><a href="https://mohammad-famid-chowdhuryfintech.netlify.app/" target="blank">Mohammad-famid-chowdhuryfintech.netlify.app</a>
+                                    <h2>Creativity:</h2>
                                     I had to use creativity to do better UX/UI for the website and perfectly place media queries for great responsiveness on all devices
-                                    <h2>Learning</h2>
+                                    <h2>Learning:</h2>
                                     I had to learn many skills on my way to do this project. For instance, learning Tailwind CSS, learning how to use proper color gradient and figuring out a way to deploy the website faster.
-                                    <h2>Organization</h2>
+                                    <h2>Organization:</h2>
                                     I had to always be very organized to keep the website clean and easy to use. I had to make sure everything is working properly and they are where they are supposed to be. For instance make sure everything is in place, from soft and pleasant animations to complex gradients
 
                                 </div>
@@ -39,11 +40,12 @@ const Achievements = () => {
                             </h2>
                             <div id="flush-collapseTwo" className="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
                                 <div className="accordion-body">
-                                    <h2>Creativity</h2>
+                                    <span>Website Link: </span><a href="https://mohammadfahmidchowdhuryproject.netlify.app/" target="blank">Mohammadfahmidchowdhuryproject.netlify.app</a>
+                                    <h2>Creativity:</h2>
                                     I had to use creativity of how students and customers might want to order my services, I used those information to then design something amazing like this app.
-                                    <h2>Learning</h2>
+                                    <h2>Learning:</h2>
                                     It took a lot of learning to make this project, I didn’t only had to acquire react skills but also had to learn neuromarketing to understand how to better sell to customers my services.
-                                    Resilience
+                                    <h2>Resilience:</h2>
                                     I was stuck doing this project multiple times but I was resilient and kept pushing.
                                     1 month Aug 2022
 
@@ -59,11 +61,11 @@ const Achievements = () => {
                             <div id="flush-collapseThree" className="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
                                 <div className="accordion-body">
                                     <img src={css_pro} alt="css_pro" />
-                                    <h2>Learning</h2>
+                                    <h2>Learning:</h2>
                                     I had to go out of my way to research and learn many different things to write this book. I had to not only learn about CSS or Web Design but also about how to write a book, grammar, how to publish a book, how to market it, and so many different things.
-                                    <h2>Initiative</h2>
+                                    <h2>Initiative:</h2>
                                     This project took a lot of initiative, this wasn't any classwork or any school assignment, this was my impendent work, and took huge amount of independent hard work.
-                                    <h2>Problem Solving</h2>
+                                    <h2>Problem Solving:</h2>
                                     It needed a lot of problem-solving abilities to produce this book. First, there was the difficulty of making a fantastic book cover, and then there was the problem of choosing a decent theme for the book, something that people would identify and remember.
 
                                 </div>
@@ -78,11 +80,11 @@ const Achievements = () => {
                             <div id="flush-collapseFour" className="accordion-collapse collapse" aria-labelledby="flush-headingFour" data-bs-parent="#accordionFlushExample">
                                 <div className="accordion-body">
                                     <img src={website} alt="website" />
-                                    <h2>Learning</h2>
+                                    <h2>Learning:</h2>
                                     This book required a lot of learning out side what I usually do, python. I had to watch many youtube videos, read a lot of books and push myself to learn to write this book.
-                                    <h2>Resilience</h2>
+                                    <h2>Resilience:</h2>
                                     It took a huge amount of resilience, I had to keep pushing even when it was really hard. I always had to focus on the final goal to keep pushing myself.
-                                    <h2>Initiative</h2>
+                                    <h2>Initiative:</h2>
                                     This project took a lot of initiative, this was not any school work, this was my impendent work, and took huge amount of initiative to write and publish this book.
                                     opens in new page.
                                     1 month Jan 2021
@@ -98,13 +100,13 @@ const Achievements = () => {
                             </h2>
                             <div id="flush-collapseFive" className="accordion-collapse collapse" aria-labelledby="flush-headingFive" data-bs-parent="#accordionFlushExample">
                                 <div className="accordion-body">
-                                    <h2>Creativity</h2>
+                                    <h2>Creativity:</h2>
                                     I had to use my creativity to create a program like this that could estimate the cost of your insurance. I had to be creative to find the best ways to write functions for the program.
-                                    <h2>Problem Solving</h2>
+                                    <h2>Problem Solving:</h2>
                                     I had to use my problem solving skills to try to find the best equation that would estimate the user's insurance cost as accurately as possible.
                                     Organization
                                     I had to organize the code using comments and write clean code which helped me when I came back to review my code.
-                                    <h2>Learning</h2>
+                                    <h2>Learning:</h2>
                                     This project wasn't only a coding project, I had to use a lot of math skills too and to gain those additional skills I had to do a lot of research and gain skills to complete this project.
                                     opens in new page.
 
@@ -121,12 +123,11 @@ const Achievements = () => {
                             </h2>
                             <div id="flush-collapseSix" className="accordion-collapse collapse" aria-labelledby="flush-headingSix" data-bs-parent="#accordionFlushExample">
                                 <div className="accordion-body">
-                                    I had to use my knowledge and creativity to write this book on cell phone and tablet repair. It was an amazing journey that taught me a lot too.
-                                    <h2>Problem Solving</h2>
+                                    <h2>Problem Solving:</h2>
                                     I had to use a lot of problem solving skills to write this amazing book, I had to make sure of a lot of different elements such as the size of the book, printing of the book and other important things such as marketing and payment.
-                                    <h2>Learning</h2>
+                                    <h2>Learning:</h2>
                                     I had to use a lot of problem solving skills to write this amazing book, I had to make sure of a lot of different elements such as the size of the book, printing of the book and other important things such as marketing and payment and so in the way I learnt a lot.
-                                    <h2>Organization</h2>
+                                    <h2>Organization:</h2>
                                     Writing a book requires a lot of organization skill such as formatting the book, organizing all the pages in a certain way, making sure all the grammar and images are right.
 
                                 </div>

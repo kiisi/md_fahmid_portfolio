@@ -7,14 +7,16 @@
     padding-top:8rem;
 }
 .footer-social{
-    max-width:8rem;
     width: 100%;
     display:flex;
-    justify-content: space-between;
+    text-align:center;
+    justify-content: center;
+    font-size: 1.5rem;
+    color:#707A8A;
 }
 
 .footer-copyright{
-    padding:2rem 0;
+    padding:1rem 0;
     font-size: 1.5rem;
     text-align:center;
     color:#707A8A;
