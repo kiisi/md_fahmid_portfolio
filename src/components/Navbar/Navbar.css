@@ -18,7 +18,7 @@
 .nav-links{
     display:flex;
     font-size:1.8rem;
-    color:#7562DF;
+    color:#ddd;
 }
 .nav-links-item:not(:last-child){
     margin-right: 2.5rem;

@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <div className="max-wrapper">
         <nav className="nav">
-            <div className="nav-header">Md Fahmid<span className="material-icons">bolt</span></div>
+            <div className="nav-header">Fahmid<span className="material-icons">bolt</span></div>
             <div className="nav-links">
                 <div className="nav-links-item">Home</div>
                 <div className="nav-links-item">About</div>

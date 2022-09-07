@@ -42,7 +42,7 @@
     width:100%;
 }
 .skillset-content{
-    padding:10rem 0;
+    padding:6rem 0;
 }
 .skillset-contact-card{
     padding:2rem 2rem;
@@ -53,6 +53,8 @@
     border-bottom-right-radius:5rem;   
     font-size:1.6rem;
     color:#25262A;
+    display:flex;
+    justify-content: space-around;
 }
 .skillset-contact-card span{
     color:#063F93;

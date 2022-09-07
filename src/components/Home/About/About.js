@@ -9,12 +9,12 @@ const About = () => {
             <div className="about">
                 <div className="about-header">
                     <p>MORE INFO</p>
-                    <h1>ABOUT MD FAHMID </h1>
+                    <h1>ABOUT FAHMID </h1>
                 </div>
                 <div className="about-content-wrapper">
                     <div className="about-content">
                         <div className="about-contact-card">
-                            <p><span>Name:</span> Md Fahmid Chowdhury</p>
+                            <p><span>Name:</span> Fahmid Chowdhury</p>
                         </div>
                         <div className="about-contact-card">
                             <p><span>Date Of Birth:</span> 07-22-2002 </p>
