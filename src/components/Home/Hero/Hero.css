@@ -47,7 +47,7 @@
 }
 .hero-content-l-2 h2{
     font-size:3rem;
-    background:linear-gradient(90deg, #7562DF,  #120845);
+    background:linear-gradient(145deg, #7562DF,#fff);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
