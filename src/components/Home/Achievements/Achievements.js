@@ -77,7 +77,7 @@ const Achievements = () => {
                             </h2>
                             <div id="flush-collapseFour" className="accordion-collapse collapse" aria-labelledby="flush-headingFour" data-bs-parent="#accordionFlushExample">
                                 <div className="accordion-body">
-                                    <img src={website} alt="website"/>
+                                    <img src={website} alt="website" />
                                     <h2>Learning</h2>
                                     This book required a lot of learning out side what I usually do, python. I had to watch many youtube videos, read a lot of books and push myself to learn to write this book.
                                     <h2>Resilience</h2>
@@ -98,6 +98,17 @@ const Achievements = () => {
                             </h2>
                             <div id="flush-collapseFive" className="accordion-collapse collapse" aria-labelledby="flush-headingFive" data-bs-parent="#accordionFlushExample">
                                 <div className="accordion-body">
+                                    <h2>Creativity</h2>
+                                    I had to use my creativity to create a program like this that could estimate the cost of your insurance. I had to be creative to find the best ways to write functions for the program.
+                                    <h2>Problem Solving</h2>
+                                    I had to use my problem solving skills to try to find the best equation that would estimate the user's insurance cost as accurately as possible.
+                                    Organization
+                                    I had to organize the code using comments and write clean code which helped me when I came back to review my code.
+                                    <h2>Learning</h2>
+                                    This project wasn't only a coding project, I had to use a lot of math skills too and to gain those additional skills I had to do a lot of research and gain skills to complete this project.
+                                    opens in new page.
+
+                                    1 month Jan 2022
 
                                 </div>
                             </div>
@@ -110,6 +121,13 @@ const Achievements = () => {
                             </h2>
                             <div id="flush-collapseSix" className="accordion-collapse collapse" aria-labelledby="flush-headingSix" data-bs-parent="#accordionFlushExample">
                                 <div className="accordion-body">
+                                    I had to use my knowledge and creativity to write this book on cell phone and tablet repair. It was an amazing journey that taught me a lot too.
+                                    <h2>Problem Solving</h2>
+                                    I had to use a lot of problem solving skills to write this amazing book, I had to make sure of a lot of different elements such as the size of the book, printing of the book and other important things such as marketing and payment.
+                                    <h2>Learning</h2>
+                                    I had to use a lot of problem solving skills to write this amazing book, I had to make sure of a lot of different elements such as the size of the book, printing of the book and other important things such as marketing and payment and so in the way I learnt a lot.
+                                    <h2>Organization</h2>
+                                    Writing a book requires a lot of organization skill such as formatting the book, organizing all the pages in a certain way, making sure all the grammar and images are right.
 
                                 </div>
                             </div>

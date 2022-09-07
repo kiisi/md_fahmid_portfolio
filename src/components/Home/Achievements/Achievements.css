@@ -102,7 +102,10 @@
     padding-top:1.5rem;
     color:#444;
 }
-
+.accordion-body img{
+    max-width:31.1rem;
+    max-height:41.5rem;
+}
 .accordion-flush .accordion-item .accordion-button {
     border-radius: 0;
     padding-top: 2rem;
