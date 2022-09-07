@@ -67,13 +67,13 @@ const Navbar = () => {
         </div>
         <div className="mobile-nav-content">
           <div className="nav-header mobile-nav-header">
-            <h2><span>Fast</span>Food</h2>
+            Fahmid<span className="material-icons">bolt</span>
           </div>
           <div className="mobile-nav-menu">
               <div>Home</div>
-              <div>Menu</div>
-              <div>Service</div>
-              <div>Shop</div>
+              <div>About</div>
+              <div>Skills</div>
+              <div>Contact</div>
             </div>
         </div>
       </nav>
