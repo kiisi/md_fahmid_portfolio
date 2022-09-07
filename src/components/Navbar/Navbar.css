@@ -29,6 +29,17 @@
 .nav-links a:hover{
     color:#7562DF;
 }
+.mobile-nav-menu a,
+.mobile-nav-menu a:visited,
+.mobile-nav-menu a:link{
+    text-decoration: none;
+    color:#666;
+    font-size:1.8rem;
+}
+.mobile-nav-menu a:hover{
+    color:#7562DF;
+}
+
 .nav-links-item:not(:last-child){
     margin-right: 3rem;
 }
