@@ -56,9 +56,31 @@ const Experience = () => {
                             <h2 className="accordion-header" id="flush-headingThree">
                                 <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
                                     Data Analyst - Homework Helper Proz
-                                </button>
+                                </button>          
                             </h2>
                             <div id="flush-collapseThree" className="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
+                                <div className="accordion-body">
+                                    <h2>Problem Solving</h2>
+                                    I used my problem solving skills to examine data to find crucial consumer insights and potential uses for the information in problem-solving.
+                                    <h2>Communication</h2>
+                                    I had to communicate with clients to understand user needs and then propose those idea to developers to better the software.
+                                    <h2>Teamwork</h2>
+                                    Team work was super important for this job, I had to report my understanding of different parts of the software with different team to better the software. Analyzes user needs and software requirements to inform system design
+                                    <h2>Learning</h2>
+                                    Learning was a major part of this job, I had to continuous study and learn new technologies. I had to communicate with different level of leadership to understand and learn more to better the technology.
+                                    <h2>Time Frame</h2>
+                                    1 year 6 months
+                                    Mar 2021 - Aug 2022
+                                </div>
+                            </div>
+                        </div>
+                        <div className="accordion-item">
+                            <h2 className="accordion-header" id="flush-headingFour">
+                                <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
+                                    Data Analyst - Homework Helper Proz
+                                </button>          
+                            </h2>
+                            <div id="flush-collapseFour" className="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
                                 <div className="accordion-body">
                                     <h2>Problem Solving</h2>
                                     I used my problem solving skills to examine data to find crucial consumer insights and potential uses for the information in problem-solving.
