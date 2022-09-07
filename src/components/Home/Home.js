@@ -6,6 +6,7 @@ import RunDown from './RunDown/RunDown'
 import Skills from './Skills/Skills'
 import Projects from './Projects/Projects'
 import Skillset from './Skillset/Skillset'
+import Experience from './Experience/Experience'
 const Home = () => {
   return (
     <>
@@ -15,6 +16,7 @@ const Home = () => {
         <About/>
         <Projects/>
         <Skillset/>
+        <Experience/>
         <Connect/>
     </>
   )
