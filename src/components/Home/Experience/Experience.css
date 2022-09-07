@@ -98,6 +98,11 @@
 .accordion-body h1{
     color: #7562DF;
 }
+.accordion-body h2{
+    padding-top:1.5rem;
+    color:#444;
+}
+
 .accordion-flush .accordion-item .accordion-button {
     border-radius: 0;
     padding-top: 2rem;
