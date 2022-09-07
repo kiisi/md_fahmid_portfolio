@@ -46,7 +46,7 @@ const Navbar = () => {
     <>
       <div className="max-wrapper">
         <nav className="nav">
-          <div className="nav-header">Fahmid<span className="material-icons">bolt</span></div>
+          <div className="nav-header">Fahmid</div>
           <div className="nav-links">
             <div className="nav-links-item"><a href="#about">About</a></div>
             <div className="nav-links-item"><a href="#skills">Skills</a></div>
