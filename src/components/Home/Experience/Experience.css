@@ -102,7 +102,15 @@
     padding-top:1.5rem;
     color:#444;
 }
-
+.accordion-body a{
+    text-decoration: none;
+    word-wrap: break-word;
+}
+.accordion-body span{
+    padding-top:1.5rem;
+    color:#444;
+    font-weight:600;
+}
 .accordion-flush .accordion-item .accordion-button {
     border-radius: 0;
     padding-top: 2rem;
