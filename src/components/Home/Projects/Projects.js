@@ -6,7 +6,7 @@ import homework from '../../Images/homework.PNG'
 
 const Projects = () => {
   return (
-    <div className="max-wrapper">
+    <div className="max-wrapper"id="projects">
             <div className="projects">
                 <div className="projects-header">
                     <p>PROJECTS</p>

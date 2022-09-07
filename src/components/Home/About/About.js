@@ -5,7 +5,7 @@ import coding1 from '../../Images/programmerImg2.svg'
 
 const About = () => {
     return (
-        <div className="max-wrapper about-wrapper">
+        <div className="max-wrapper about-wrapper" id="about">
             <div className="about">
                 <div className="about-header">
                     <p>MORE INFO</p>

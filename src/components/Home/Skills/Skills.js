@@ -5,7 +5,7 @@ import box from '../../Images/box.svg'
 import stack from '../../Images/stack.svg'
 const Skills = () => {
     return (
-        <div className="max-wrapper">
+        <div className="max-wrapper" id="skills">
             <div className="skills">
                 <div className="skills-header">
                     <p>SKILLS</p>

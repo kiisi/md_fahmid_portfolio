@@ -20,6 +20,15 @@
     font-size:1.8rem;
     color:#ddd;
 }
+.nav-links a,
+.nav-links a:visited,
+.nav-links a:link{
+    text-decoration: none;
+    color:#ddd;
+}
+.nav-links a:hover{
+    color:#7562DF;
+}
 .nav-links-item:not(:last-child){
     margin-right: 3rem;
 }
@@ -106,6 +115,9 @@
 
 .mobile-nav-menu div{
     padding:1rem;
+}
+.mobile-nav-menu div a{
+    text-decoration: none;
 }
 .nav-modal{
     height:100vh;

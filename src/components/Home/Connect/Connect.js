@@ -5,7 +5,7 @@ import {ReactComponent as Intersect} from '../../Images/Intersection-1.svg'
 
 const Connect = () => {
   return (
-    <div className="max-wrapper connect-wrapper">
+    <div className="max-wrapper connect-wrapper" id="connect">
         <div className="connect">
           <div className="connect-intersection">
             <Intersection/>
