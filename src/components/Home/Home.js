@@ -7,6 +7,7 @@ import Skills from './Skills/Skills'
 import Projects from './Projects/Projects'
 import Skillset from './Skillset/Skillset'
 import Experience from './Experience/Experience'
+import Achievements from './Achievements/Achievements'
 const Home = () => {
   return (
     <>
@@ -17,6 +18,7 @@ const Home = () => {
         <Projects/>
         <Skillset/>
         <Experience/>
+        <Achievements/>
         <Connect/>
     </>
   )
