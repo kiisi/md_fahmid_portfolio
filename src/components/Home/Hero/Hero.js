@@ -34,7 +34,9 @@ const Hero = () => {
                                 <p>A software engineer 6+ years of proven leadership and meaningfully contributed to teams of varying size and scopes.</p>
                             </div>
                             <div className="hero-content-l-btn">
-                                <div className="btn">Hire Me</div>
+                                <div className="btn"onClick={()=>window.location = "kiisifelix06@gmail.com"}>
+                                    Hire Me
+                                </div>
                             </div>
                         </div>
 
