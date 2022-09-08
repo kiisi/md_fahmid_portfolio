@@ -1,7 +1,6 @@
 import React from 'react'
 import './Hero.css'
-import heroImg from '../../Images/heroimage.png';
-import heroCircle from "../../Images/hero-circle.svg"
+import heroImg from '../../Images/heroImg.jpg';
 import Typewriter from 'typewriter-effect';
 
 const Hero = () => {
@@ -46,9 +45,6 @@ const Hero = () => {
                     </div>
                 </div>
                 <div className="hero-image-wrapper">
-                    <div className="hero-image-circle">
-                        <img src={heroCircle} alt="hero_circle" />
-                    </div>
                     <div className="hero-image">
                         <img src={heroImg} alt="hero_image" />
                     </div>
