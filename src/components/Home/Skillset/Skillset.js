@@ -3,7 +3,7 @@ import './Skillset.css'
 import reactImg from '../../Images/reactImg.svg'
 const Skillset = () => {
     return (
-        <div className="max-wrapper about-wrapper">
+        <div className="max-wrapper skillset-wrapper">
             <div className="skillset">
                 <div className="skillset-header">
                     <p>SKILLSET</p>
