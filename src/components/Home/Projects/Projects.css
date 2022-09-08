@@ -71,6 +71,18 @@
     font-size:2.6rem;
     color:#063F93;
 }
+.projects-logistics-card-caption-sub{
+    display:flex;
+    justify-content:center;
+}
+.projects-logistics-card-caption-sub a{
+    text-decoration: none;
+    font-size:1.8rem;
+    text-align:center;
+}
+.projects-logistics-card:hover .projects-logistics-card-caption-sub a{
+    color:#fff;
+}
 .projects-logistics-card:hover .projects-logistics-card-caption-main h1{
     color:#fff;
 }

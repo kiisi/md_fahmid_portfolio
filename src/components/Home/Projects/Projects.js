@@ -19,6 +19,8 @@ const Projects = () => {
                         </div>
                         <div className="projects-logistics-card-caption">
                             <div className="projects-logistics-card-caption-main"><h1>HooBank</h1></div>
+                            <div className="projects-logistics-card-caption-sub"><a href="https://mohammad-famid-chowdhuryfintech.netlify.app/"target="_blank"rel="noreferrer">View</a></div>
+                            
                         </div>
                     </div>
                     <div className="projects-logistics-card">
@@ -27,6 +29,7 @@ const Projects = () => {
                         </div>
                         <div className="projects-logistics-card-caption">
                             <div className="projects-logistics-card-caption-main"><h1>Medical Insurance</h1></div>
+                            <div className="projects-logistics-card-caption-sub"><a href="https://replit.com/@Mohammad-Fahmid/Medical-Insurance-Project"target="_blank"rel="noreferrer">View</a></div>
                         </div>
                     </div>
                     <div className="projects-logistics-card">
@@ -35,6 +38,7 @@ const Projects = () => {
                         </div>
                         <div className="projects-logistics-card-caption">
                             <div className="projects-logistics-card-caption-main"><h1>HomeWorkGuys</h1></div>
+                            <div className="projects-logistics-card-caption-sub"><a href="https://mohammadfahmidchowdhuryproject.netlify.app/"target="_blank"rel="noreferrer">View</a></div>
                         </div>
                     </div>
 
