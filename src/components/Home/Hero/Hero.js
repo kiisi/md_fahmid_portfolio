@@ -5,6 +5,11 @@ import heroCircle from "../../Images/hero-circle.svg"
 import Typewriter from 'typewriter-effect';
 
 const Hero = () => {
+
+    const mailHandler = () =>{
+        window.location.href="mailto:kiisifelix06@gmail.com=Hello&body=Body"
+    }
+
     return (
         <div className="max-wrapper hero-wrapper">
             <div className="hero">
@@ -34,7 +39,7 @@ const Hero = () => {
                                 <p>A software engineer 6+ years of proven leadership and meaningfully contributed to teams of varying size and scopes.</p>
                             </div>
                             <div className="hero-content-l-btn">
-                                <div className="btn"onClick={()=>window.location = "kiisifelix06@gmail.com"}>
+                                <div className="btn"onClick={mailHandler}>
                                     Hire Me
                                 </div>
                             </div>
