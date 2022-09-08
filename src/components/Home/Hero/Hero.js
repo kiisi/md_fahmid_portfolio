@@ -7,8 +7,7 @@ import Typewriter from 'typewriter-effect';
 const Hero = () => {
 
     const mailHandler = () =>{
-        window.location.href="https://mailto:kiisifelix06@gmail.com"
-        // window.open("https://mailto:kiisifelix06@gmail.com")
+        window.open("https://mailto:kiisifelix06@gmail.com")
     }
 
     return (
