@@ -12,12 +12,12 @@ const Experience = () => {
                 <div className="experience-logistics">
                     <div className="accordion accordion-flush" id="accordionFlushExample">
                         <div className="accordion-item">
-                            <h2 className="accordion-header" id="flush-headingOne">
-                                <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+                            <h2 className="accordion-header" id="flush-heading1">
+                                <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse1" aria-expanded="false" aria-controls="flush-collapse1">
                                     Lyft Back-End Engineering Virtual Experience
                                 </button>
                             </h2>
-                            <div id="flush-collapseOne" className="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+                            <div id="flush-collapse1" className="accordion-collapse collapse" aria-labelledby="flush-heading1" data-bs-parent="#accordionFlushExample">
                                 <div className="accordion-body">
                                     <span>Proof: </span><a href="https://drive.google.com/file/d/106WDr_ZiNMp7Kza17ueZ3i5sdesTu4Jr/view" target="_blank" rel="noreferrer">Click Me</a>
                                     <h2>Problem Solving:</h2>
@@ -34,12 +34,12 @@ const Experience = () => {
                             </div>
                         </div>
                         <div className="accordion-item">
-                            <h2 className="accordion-header" id="flush-headingTwo">
-                                <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+                            <h2 className="accordion-header" id="flush-heading2">
+                                <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse2" aria-expanded="false" aria-controls="flush-collapse2">
                                     Software Engineering Virtual Experience
                                 </button>
                             </h2>
-                            <div id="flush-collapseTwo" className="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
+                            <div id="flush-collapse2" className="accordion-collapse collapse" aria-labelledby="flush-heading2" data-bs-parent="#accordionFlushExample">
                                 <div className="accordion-body">
                                     <span>Proof: </span><a href="https://drive.google.com/file/d/1MoXqDJSOPLDwwgNORs6F50H0zQwsoTe-/view" target="_blank" rel="noreferrer">Click Me</a>
                                     <h2>Learning:</h2>
@@ -55,12 +55,12 @@ const Experience = () => {
                             </div>
                         </div>
                         <div className="accordion-item">
-                            <h2 className="accordion-header" id="flush-headingThree">
-                                <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
+                            <h2 className="accordion-header" id="flush-heading3">
+                                <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse3" aria-expanded="false" aria-controls="flush-collapse3">
                                     Data Analyst - Homework Helper Proz
                                 </button>
                             </h2>
-                            <div id="flush-collapseThree" className="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
+                            <div id="flush-collapse3" className="accordion-collapse collapse" aria-labelledby="flush-heading3" data-bs-parent="#accordionFlushExample">
                                 <div className="accordion-body">
                                 <span>Proof: </span><a href="https://www.udemy.com/user/homework-helper-proz/" target="_blank" rel="noreferrer">Click Me</a>
                                     <h2>Problem Solving:</h2>
@@ -78,14 +78,14 @@ const Experience = () => {
                             </div>
                         </div>
                         <div className="accordion-item">
-                            <h2 className="accordion-header" id="flush-headingFour">
-                                <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
+                            <h2 className="accordion-header" id="flush-heading4">
+                                <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse4" aria-expanded="false" aria-controls="flush-collapse4">
                                     CIO and Owner - SARATOGA CHICKEN US INC
                                 </button>
                             </h2>
-                            <div id="flush-collapseFour" className="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
+                            <div id="flush-collapse4" className="accordion-collapse collapse" aria-labelledby="flush-heading4" data-bs-parent="#accordionFlushExample">
                                 <div className="accordion-body">
-                                    
+
                                     <span>Website Link: </span><a href="https://www.nycompanyregistry.com/companies/saratoga-chicken-us-inc/" target="_blank" rel="noreferrer">Saratoga</a>
                                     <h2>Communication:</h2>
                                     I ran and operated this business, so I had to deal with many different types of customers from many different type of backgrounds. It was difficult because I had to learn how different customer might react and how to read them beforehand. I also had to learn sale to a great extend.
