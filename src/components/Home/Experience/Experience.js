@@ -3,7 +3,7 @@ import './Experience.css'
 
 const Experience = () => {
     return (
-        <div className="max-wrapper"id="experience">
+        <div className="max-wrapper" id="experience">
             <div className="experience">
                 <div className="experience-header">
                     <p>EXPERIENCE</p>
@@ -19,6 +19,7 @@ const Experience = () => {
                             </h2>
                             <div id="flush-collapseOne" className="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
                                 <div className="accordion-body">
+                                    <span>Proof: </span><a href="https://drive.google.com/file/d/106WDr_ZiNMp7Kza17ueZ3i5sdesTu4Jr/view" target="_blank" rel="noreferrer">Click Me</a>
                                     <h2>Problem Solving:</h2>
                                     Using my problem-solving skills, I was able to develop full-stack web applications that processed, analyzed, and displayed large amounts of data.
                                     <h2>Creativity:</h2>
@@ -40,6 +41,7 @@ const Experience = () => {
                             </h2>
                             <div id="flush-collapseTwo" className="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
                                 <div className="accordion-body">
+                                    <span>Proof: </span><a href="https://drive.google.com/file/d/1MoXqDJSOPLDwwgNORs6F50H0zQwsoTe-/view" target="_blank" rel="noreferrer">Click Me</a>
                                     <h2>Learning:</h2>
                                     I had to consistently develop new skills. At first I was only good at Web Development but then I had to learn new skills in application layers, presentation layers, databases and more.
                                     <h2>Problem Solving:</h2>
@@ -56,7 +58,7 @@ const Experience = () => {
                             <h2 className="accordion-header" id="flush-headingThree">
                                 <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
                                     Data Analyst - Homework Helper Proz
-                                </button>          
+                                </button>
                             </h2>
                             <div id="flush-collapseThree" className="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
                                 <div className="accordion-body">
@@ -77,12 +79,12 @@ const Experience = () => {
                         <div className="accordion-item">
                             <h2 className="accordion-header" id="flush-headingFour">
                                 <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
-                                CIO and Owner - SARATOGA CHICKEN US INC
-                                </button>          
+                                    CIO and Owner - SARATOGA CHICKEN US INC
+                                </button>
                             </h2>
                             <div id="flush-collapseFour" className="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
                                 <div className="accordion-body">
-                                    <span>Website Link: </span><a href="https://www.nycompanyregistry.com/companies/saratoga-chicken-us-inc/"target="_blank"rel="noreferrer">Saratoga</a>
+                                    <span>Website Link: </span><a href="https://www.nycompanyregistry.com/companies/saratoga-chicken-us-inc/" target="_blank" rel="noreferrer">Saratoga</a>
                                     <h2>Communication:</h2>
                                     I ran and operated this business, so I had to deal with many different types of customers from many different type of backgrounds. It was difficult because I had to learn how different customer might react and how to read them beforehand. I also had to learn sale to a great extend.
                                     <h2>Leadership:</h2>
@@ -94,7 +96,7 @@ const Experience = () => {
                                 </div>
                             </div>
                         </div>
-                    
+
                     </div>
 
                 </div>
