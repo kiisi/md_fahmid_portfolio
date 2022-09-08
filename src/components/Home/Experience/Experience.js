@@ -62,6 +62,7 @@ const Experience = () => {
                             </h2>
                             <div id="flush-collapseThree" className="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
                                 <div className="accordion-body">
+                                <span>Proof: </span><a href="https://www.udemy.com/user/homework-helper-proz/" target="_blank" rel="noreferrer">Click Me</a>
                                     <h2>Problem Solving:</h2>
                                     I used my problem solving skills to examine data to find crucial consumer insights and potential uses for the information in problem-solving.
                                     <h2>Communication:</h2>
@@ -84,6 +85,7 @@ const Experience = () => {
                             </h2>
                             <div id="flush-collapseFour" className="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
                                 <div className="accordion-body">
+                                    
                                     <span>Website Link: </span><a href="https://www.nycompanyregistry.com/companies/saratoga-chicken-us-inc/" target="_blank" rel="noreferrer">Saratoga</a>
                                     <h2>Communication:</h2>
                                     I ran and operated this business, so I had to deal with many different types of customers from many different type of backgrounds. It was difficult because I had to learn how different customer might react and how to read them beforehand. I also had to learn sale to a great extend.
