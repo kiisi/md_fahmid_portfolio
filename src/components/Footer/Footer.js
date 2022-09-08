@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="max-wrapper">
             <div className="footer">
                 <div className="footer-social">
-                    929 525 7669
+                    +1 929 525 7669
                 </div>
                 <div className="footer-copyright">Fahmid &copy; {year}, All Rights Reserved</div>
             </div>
