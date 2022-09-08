@@ -7,7 +7,8 @@ import Typewriter from 'typewriter-effect';
 const Hero = () => {
 
     const mailHandler = () =>{
-        window.location.href="mailto:kiisifelix06@gmail.com=Hello&body=Body"
+        window.location.href="https://mailto:kiisifelix06@gmail.com"
+        // window.open("https://mailto:kiisifelix06@gmail.com")
     }
 
     return (
@@ -39,7 +40,7 @@ const Hero = () => {
                                 <p>A software engineer 6+ years of proven leadership and meaningfully contributed to teams of varying size and scopes.</p>
                             </div>
                             <div className="hero-content-l-btn">
-                                <div className="btn"onClick={mailHandler}>
+                                <div className="btn-l"onClick={mailHandler}>
                                     Hire Me
                                 </div>
                             </div>
