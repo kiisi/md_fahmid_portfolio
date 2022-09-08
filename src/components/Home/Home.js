@@ -1,5 +1,4 @@
 import React from 'react'
-import About from './About/About'
 import Connect from './Connect/Connect'
 import Hero from './Hero/Hero'
 import Skills from './Skills/Skills'
@@ -12,7 +11,6 @@ const Home = () => {
     <>
         <Hero/>
         <Skills/>
-        <About/>
         <Projects/>
         <Skillset/>
         <Experience/>
