@@ -2,6 +2,7 @@ import React from 'react'
 import './Achievements.css'
 import css_pro from '../../Images/css_pro.PNG'
 import website from '../../Images/website.PNG'
+import phonerepair from '../../Images/phone_repair.PNG'
 
 const Achievements = () => {
     return (
@@ -102,8 +103,8 @@ const Achievements = () => {
                                     <h2>Resilience:</h2>
                                     It took a huge amount of resilience, I had to keep pushing even when it was really hard. I always had to focus on the final goal to keep pushing myself.
                                     <h2>Initiative:</h2>
-                                    This project took a lot of initiative, this was not any school work, this was my impendent work, and took huge amount of initiative to write and publish this book.
-                                    opens in new page.
+                                    This project took a lot of initiative, this was not any school work, this was my impendent work, and took huge amount of initiative to write and publish this book.<br/>
+                                    <span>Proof: </span><a href="https://www.credly.com/badges/a13b1081-50b1-4256-bf2a-da57644186ac/linked_in_profile"target="_blank"rel="noreferrer">Click Me</a><br/>
                                     1 month Jan 2021
 
                                 </div>
@@ -124,8 +125,8 @@ const Achievements = () => {
                                     Organization
                                     I had to organize the code using comments and write clean code which helped me when I came back to review my code.
                                     <h2>Learning:</h2>
-                                    This project wasn't only a coding project, I had to use a lot of math skills too and to gain those additional skills I had to do a lot of research and gain skills to complete this project.
-                                    opens in new page.
+                                    This project wasn't only a coding project, I had to use a lot of math skills too and to gain those additional skills I had to do a lot of research and gain skills to complete this project.<br/>
+                                    <span>Proof: </span><a href="https://replit.com/@Mohammad-Fahmid/Medical-Insurance-Project"target="_blank"rel="noreferrer">Click Me</a><br/>
 
                                     1 month Jan 2022
 
@@ -140,13 +141,15 @@ const Achievements = () => {
                             </h2>
                             <div id="flush-collapseSix" className="accordion-collapse collapse" aria-labelledby="flush-headingSix" data-bs-parent="#accordionFlushExample">
                                 <div className="accordion-body">
+                                    <img src={phonerepair} alt="Phone Repair"/>
                                     <h2>Problem Solving:</h2>
                                     I had to use a lot of problem solving skills to write this amazing book, I had to make sure of a lot of different elements such as the size of the book, printing of the book and other important things such as marketing and payment.
                                     <h2>Learning:</h2>
                                     I had to use a lot of problem solving skills to write this amazing book, I had to make sure of a lot of different elements such as the size of the book, printing of the book and other important things such as marketing and payment and so in the way I learnt a lot.
                                     <h2>Organization:</h2>
-                                    Writing a book requires a lot of organization skill such as formatting the book, organizing all the pages in a certain way, making sure all the grammar and images are right.
-
+                                    Writing a book requires a lot of organization skill such as formatting the book, organizing all the pages in a certain way, making sure all the grammar and images are right.<br/>
+                                    <span>Proof: </span><a href="https://www.amazon.com/dp/B09LCSBS4M/ref=sr_1_2?qid=1636473057&qsid=130-1426251-2658531&refinements=p_27%3AFahmid+Chowdhury&s=digital-text&sr=1-2&sres=B09L6TPTH4%2CB09LCSBS4M&text=Fahmid+Chowdhury"target="_blank"rel="noreferrer">Click Me</a><br/>
+                                    1 month Nov 2021
                                 </div>
                             </div>
                         </div>
