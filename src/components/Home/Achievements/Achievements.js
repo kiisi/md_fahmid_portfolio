@@ -79,6 +79,11 @@ const Achievements = () => {
                                     This project took a lot of initiative, this wasn't any classwork or any school assignment, this was my impendent work, and took huge amount of independent hard work.
                                     <h2>Problem Solving:</h2>
                                     It needed a lot of problem-solving abilities to produce this book. First, there was the difficulty of making a fantastic book cover, and then there was the problem of choosing a decent theme for the book, something that people would identify and remember.
+                                    <h2>Resilience</h2>
+                                    The writing of this book required a great deal of perseverance; it took me around three months to finish the manuscript. Despite all of the hard work and perseverance, I was able to complete the book writing process.<br/>
+                                    <span>Proof: </span><a href="https://www.amazon.com/CSS-Programming-Complete-Guide-fundamentals-ebook/dp/B09LQTM8XJ/"target="_blank"rel="noreferrer">Click Me</a><br/>
+                                    11 months Jan 2021 - Nov 2021
+
 
                                 </div>
                             </div>
@@ -172,11 +177,12 @@ const Achievements = () => {
                             </h2>
                             <div id="flush-collapseEight" className="accordion-collapse collapse" aria-labelledby="flush-headingEight" data-bs-parent="#accordionFlushExample">
                                 <div className="accordion-body">
-                                    Award - Autodesk Certified User<br/>
+                                    Award - Autodesk Certified User<br />
 
                                     <h2>Learning:</h2>
-                                    This badge clearly shows my eagerness and motivation to learn. Even though I am a programmer I learn other things that could help me in my programming career such as designing, which is why I studied hard and earned this badge. Thank you!<br/>
-                                    <span>Proof: </span><a href="https://www.credly.com/badges/a13b1081-50b1-4256-bf2a-da57644186ac/linked_in_profile"target="_blank"rel="noreferrer">Click Me</a>
+                                    This badge clearly shows my eagerness and motivation to learn. Even though I am a programmer I learn other things that could help me in my programming career such as designing, which is why I studied hard and earned this badge. Thank you!<br />
+                                    <span>Proof: </span><a href="https://www.credly.com/badges/a13b1081-50b1-4256-bf2a-da57644186ac/linked_in_profile" target="_blank" rel="noreferrer">Click Me</a><br />
+                                    4 years 5 months May 2018 - present
 
                                 </div>
                             </div>
