@@ -50,7 +50,7 @@
     background:#063F93;
 }
 .btn-l:active{
-    margin-top:-2px;
+    border:1px solid #ddd;
 }
 .btn-l a,
 .btn-l a::after,
