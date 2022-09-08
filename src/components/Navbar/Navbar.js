@@ -70,8 +70,8 @@ const Navbar = () => {
             Fahmid<span className="material-icons">bolt</span>
           </div>
           <div className="mobile-nav-menu">
-            <div><a href="#about">About</a></div>
             <div><a href="#skills">Skills</a></div>
+            <div><a href="#experience">Experience</a></div>
             <div><a href="#projects">Projects</a></div>
             <div><a href="#connect">Connect</a></div>
           </div>
