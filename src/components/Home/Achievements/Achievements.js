@@ -21,13 +21,18 @@ const Achievements = () => {
                             </h2>
                             <div id="flush-collapseOne" className="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
                                 <div className="accordion-body">
-                                    <span>Website Link: </span><a href="https://mohammad-famid-chowdhuryfintech.netlify.app/"  target="_blank"rel="noreferrer">famid-fintech</a>
+                                    <span>Website Link: </span><a href="https://mohammad-famid-chowdhuryfintech.netlify.app/" target="_blank" rel="noreferrer">famid-fintech</a>
                                     <h2>Creativity:</h2>
                                     I had to use creativity to do better UX/UI for the website and perfectly place media queries for great responsiveness on all devices
                                     <h2>Learning:</h2>
                                     I had to learn many skills on my way to do this project. For instance, learning Tailwind CSS, learning how to use proper color gradient and figuring out a way to deploy the website faster.
                                     <h2>Organization:</h2>
                                     I had to always be very organized to keep the website clean and easy to use. I had to make sure everything is working properly and they are where they are supposed to be. For instance make sure everything is in place, from soft and pleasant animations to complex gradients
+                                    <h2>COURSE</h2>
+                                    - Web Development<br />
+                                    - Youth Design Center<br />
+                                    Websites are the face of a company and thats why I took this course, to learn how to development and design websites. We learnt about HTML, CSS and JS. We also used Wordpress and learnt to how to use PHP to make our own functional Wordpress themes and plugins.
+
 
                                 </div>
                             </div>
@@ -40,15 +45,22 @@ const Achievements = () => {
                             </h2>
                             <div id="flush-collapseTwo" className="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
                                 <div className="accordion-body">
-                                    <span>Website Link: </span><a href="https://mohammadfahmidchowdhuryproject.netlify.app/" target="_blank"rel="noreferrer">HomeWork</a>
+                                    <span>Website Link: </span><a href="https://mohammadfahmidchowdhuryproject.netlify.app/" target="_blank" rel="noreferrer">HomeWork</a>
                                     <h2>Creativity:</h2>
                                     I had to use creativity of how students and customers might want to order my services, I used those information to then design something amazing like this app.
                                     <h2>Learning:</h2>
                                     It took a lot of learning to make this project, I didn’t only had to acquire react skills but also had to learn neuromarketing to understand how to better sell to customers my services.
                                     <h2>Resilience:</h2>
-                                    I was stuck doing this project multiple times but I was resilient and kept pushing.
+                                    I was stuck doing this project multiple times but I was resilient and kept pushing.<br />
                                     1 month Aug 2022
+                                    <h2>COURSE</h2>
+                                    Python Programming Machine Learning Python Beginner- Advance<br />
 
+                                    In this course I learnt basic python to advance python. <br />
+                                    I also learnt about a bit of React. <br />
+                                    They also taught me how to learn programming using hands on practice, how to work in teams and collaborate. I also made some connections during the course. It was an amazing experience!.<br />
+                                    <span>Proof: </span><a href="https://www.udemy.com/certificate/UC-cdfd1fc0-9ed3-41d2-a8ef-05128a7678a0/" target="_blank" rel="noreferrer">Click Me</a><br />
+                                    1 year 2 months Mar 2021 - Apr 2022
                                 </div>
                             </div>
                         </div>
@@ -149,6 +161,23 @@ const Achievements = () => {
                                     <h2>Jose Rincon:</h2>
                                     Mohammad Fahmid 's manager at Homework Helper Proz
                                     He is an amazing candidate to hire, he is bright smart and very very very hardworking. He takes time to learn something new but once you show him how to do something he will put his heart and soul to complete the task. He is very motivated in learning new
+                                </div>
+                            </div>
+                        </div>
+                        <div className="accordion-item">
+                            <h2 className="accordion-header" id="flush-headingEight">
+                                <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseEight" aria-expanded="false" aria-controls="flush-collapseEight">
+                                    AWARD
+                                </button>
+                            </h2>
+                            <div id="flush-collapseEight" className="accordion-collapse collapse" aria-labelledby="flush-headingEight" data-bs-parent="#accordionFlushExample">
+                                <div className="accordion-body">
+                                    Award - Autodesk Certified User<br/>
+
+                                    <h2>Learning:</h2>
+                                    This badge clearly shows my eagerness and motivation to learn. Even though I am a programmer I learn other things that could help me in my programming career such as designing, which is why I studied hard and earned this badge. Thank you!<br/>
+                                    <span>Proof: </span><a href="https://www.credly.com/badges/a13b1081-50b1-4256-bf2a-da57644186ac/linked_in_profile"target="_blank"rel="noreferrer">Click Me</a>
+
                                 </div>
                             </div>
                         </div>
