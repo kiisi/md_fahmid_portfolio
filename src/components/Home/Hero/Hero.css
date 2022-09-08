@@ -81,28 +81,10 @@
 }
 
 .hero-image-wrapper{
-    display:flex;
-    justify-content: center;
+    display:grid;
     position:relative;
-    overflow: hidden;
-    transform:translateX(0);
-    backface-visibility: hidden;
-    animation:heroImg 800ms linear; 
-}
-@keyframes heroImg{
-    from{
-        transform:translateX(10rem);
-    }
-    to{
-        transform:translateX(0);
-    }
-}
-.hero-image{
-    position: absolute;
-    top:50%;
-    left:50%;
-    transform: translate(-50%, -50%);
-    z-index:0;
+    overflow: hidden; 
+    place-items:center;
 }
 .hero-image{
     border-width:1rem;
@@ -112,8 +94,8 @@
 }
 .hero-image img{
     width:100%;
-    max-width:65rem;
-    max-height:65rem;
+    max-width:55rem;
+    max-height:55rem;
     height:100%;
     border-radius:50%;
 }
