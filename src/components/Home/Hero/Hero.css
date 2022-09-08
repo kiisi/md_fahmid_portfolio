@@ -70,6 +70,15 @@
     font-size: var(--p-fs-xx);
     background:#063F93;
 }
+.btn-l:active{
+    margin-top:-2px;
+}
+.btn-l a,
+.btn-l a::after,
+.btn-l a::before{
+    color:#fff;
+    text-decoration:none;
+}
 
 .hero-image-wrapper{
     display:flex;

@@ -38,7 +38,7 @@ const Hero = () => {
                             </div>
                             <div className="hero-content-l-btn">
                                 <div className="btn-l">
-                                <a href="mailto:kiisi2006@gmail.com">Hire Me</a>
+                                <a href="mailto:fahmidchowhury@gmail.com">Hire Me</a>
                                 </div>
                             </div>
                         </div>

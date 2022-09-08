@@ -65,6 +65,15 @@
     display:grid;
     place-items:center;
 }
+.connect-content-btn .btn-c:active {
+    border:1px solid #ddd;
+}
+.btn-c a,
+.btn-c a::after,
+.btn-c a::before{
+    text-decoration:none;
+    color:#ddd;
+}
 
 @media screen and (max-width:768px){
     .connect-content-main{
