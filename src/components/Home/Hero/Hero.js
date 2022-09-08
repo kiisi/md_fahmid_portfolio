@@ -20,7 +20,7 @@ const Hero = () => {
                         </div>
                         <div className="hero-content-l">
                             <div className="hero-content-l-1">
-                                <h1>Hi I'm Md Fahmid Chowdhury</h1>
+                                <h1>Mohammad Fahmid Chowdhury</h1>
                             </div>
                             <div className="hero-content-l-2">
                                 <h2><span>A </span><Typewriter
