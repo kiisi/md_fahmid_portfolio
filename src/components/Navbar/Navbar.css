@@ -49,7 +49,7 @@
     padding: .6rem;
     cursor:pointer;
     border-radius: 5px;
-    background:#063F93;
+    background:transparent;
 }
 .nav-menu-icon span{
     color:#fff !important;
