@@ -12,12 +12,6 @@ const Hero = () => {
             <div className="hero">
                 <div className="hero-content-wrapper">
                     <div className="hero-content">
-                        <div className="hero-content-m">
-                            <div className="hero-content-m-1">
-                                <span className="material-icons">bolt</span>
-                            </div>
-                            <p>SPEED UP<br />COMMUNICATIONS</p>
-                        </div>
                         <div className="hero-content-l">
                             <div className="hero-content-l-1">
                                 <h1>Mohammad Fahmid Chowdhury</h1>
