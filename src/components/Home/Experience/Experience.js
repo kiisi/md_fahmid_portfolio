@@ -3,7 +3,7 @@ import './Experience.css'
 
 const Experience = () => {
     return (
-        <div className="max-wrapper">
+        <div className="max-wrapper"id="experience">
             <div className="experience">
                 <div className="experience-header">
                     <p>EXPERIENCE</p>

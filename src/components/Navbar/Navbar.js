@@ -48,8 +48,8 @@ const Navbar = () => {
         <nav className="nav">
           <div className="nav-header">Fahmid</div>
           <div className="nav-links">
+            <div className="nav-links-item"><a href="#experience">Experience</a></div>
             <div className="nav-links-item"><a href="#about">About</a></div>
-            <div className="nav-links-item"><a href="#skills">Skills</a></div>
             <div className="nav-links-item"><a href="#projects">Projects</a></div>
             <div className="nav-links-item"><a href="#connect">Connect</a></div>
           </div>
