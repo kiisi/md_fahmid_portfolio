@@ -14,28 +14,7 @@
     height:100%;
     padding-right:.5rem;
 }
-.hero-content-m{
-    display:block
-}
-.hero-content-m-1{
-    background:#EA4C89;
-    height: 3.5rem;
-    width:3.5rem;
-    display:grid;
-    place-items: center;
-    border-radius: 50%;
-    transform: rotate(15deg);
-    
-}
-.hero-content-m-1 span{
-    color: #fff !important;
-}
-.hero-content-m p{
-    padding-top:5px;
-    font-size: var(--p-fs-x);
-    line-height:17px;
-    color:#EA4C89;
-}
+
 .hero-content-l-1{
     padding:2.5rem 0;
 }
