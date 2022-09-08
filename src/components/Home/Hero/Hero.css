@@ -103,7 +103,7 @@
 @media screen and (max-width:900px){
     .hero{
         grid-template-columns: 100%;
-        row-gap:2rem;
+        row-gap:8rem;
     }
     .hero-content{
         padding-right:0;
